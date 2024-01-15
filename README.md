@@ -25,6 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2024-01-14 at 22-34-40 Frontend Mentor 3-column preview card component](https://github.com/ATosacik/3-column-preview-card-component-main-frontend-mentor/assets/111382391/3d9d28f4-7356-49a7-bdc1-adf8d570fe75)
+![Screenshot 2024-01-14 at 22-34-52 Frontend Mentor 3-column preview card component](https://github.com/ATosacik/3-column-preview-card-component-main-frontend-mentor/assets/111382391/244a40b6-1d72-48ee-8e92-da20190c2282)
+
 ### Links
 
 - Solution URL [here](https://your-solution-url.com).
