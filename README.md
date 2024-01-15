@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL [here](https://your-solution-url.com).
+- Solution URL [here](https://atosacik.github.io/3-column-preview-card-component-main-frontend-mentor/).
 
 ## My process
 
